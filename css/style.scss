@@ -1,0 +1,213 @@
+*{margin: 0; padding: 0}
+@import "fonts.scss";
+$font: 'FontAwesome'; 
+$black: #000000;
+$yellow: #FAAD3D;
+body {
+    box-sizing: border-box;
+    color: #000000;
+    padding: 0 !important; 
+    font-size: 16px;  
+    line-height: 1.6;
+    transition: .3s all; 
+    position: relative;
+    font-weight: normal;
+    font-family: 'Nunito'; 
+    h1, h2, h3, h4, h5, h6, p, label, ul, li, .card, a { 
+        text-decoration: none !important;        
+        transition: .3s all;  
+        margin-bottom: 0;  
+        outline: none !important;  
+    }    
+    a { 
+        transition: .3s all !important; 
+        color: #000000;
+        &:hover {
+            color: $yellow;     
+        }  
+    } 
+    ul {    
+    	padding: 0; 
+    	margin: 0; 
+    }   
+    input, button {   
+    	outline: none !important; 
+    	box-shadow: none; 
+    	transition: .3s all; 
+    }
+    .slick-slide {
+    	height: auto;  
+        img {
+            display: inline;
+        }
+    }
+    .container {
+        width: 100%;
+        max-width: 1200px;
+    }
+    .container-fluid {
+        padding: 0 60px;
+    }  
+    img {
+        max-width: 100%;
+    }
+}
+.slick-slider {
+    margin-bottom: 0;
+}
+.avarta {
+    overflow: hidden;
+    img { 
+        transition: .7s all;
+        &:hover {
+            transition: .7s all;
+            // transform: scale(1.08); 
+        }
+    }
+}  
+ 
+.prod-bg {
+    background-size: cover !important;
+}
+
+.header-top {
+    background: $yellow;
+    color: #fff;
+    font-size: 12px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    li {
+        padding-right: 20px;
+        &:last-child {
+            padding-right: 0;
+        }
+    }
+}
+.header-menu {
+    padding: 10px 0;
+}
+.menu-cent {
+    ul {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        li {
+            padding-right: 40px;
+            &:last-child {
+                padding-right: 0;
+            }
+        }
+    } 
+    a {
+        &.active, &:hover {
+            color: $yellow;
+        }
+    }
+}
+.btn-head {
+    a {
+        display: flex;
+        width: 50px;
+        height: 50px;
+        border-radius: 100%;
+        background: #fff;
+        box-shadow: 1px 3px 10px 2px rgba(0, 0, 0, 0.03);
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        &:hover {
+            background: $yellow;
+            color: #000000;
+        }
+        span {
+            position: absolute;
+            font-family: $robo;
+            font-size: 12px;
+            display: flex;
+            width: 20px;
+            height: 20px;
+            align-items: center;
+            justify-content: center;
+            background: $yellow;
+            color: #fff;
+            border-radius: 100%;
+            top: 0;
+            right: -6px;
+        }
+    }
+}
+
+
+// main 
+.item-banner {
+    position: relative;
+    &:after {
+        content: "";
+        width: 100%;
+        height: 100%;
+        background: #000000;
+        opacity: .4;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .caption {
+        position: absolute;
+        z-index: 2;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        p {
+            font-size: 14px;
+            text-transform: uppercase;
+            font-weight: 400;
+            color: $yellow;
+            margin-bottom: 15px;
+        }
+        h2 {
+            font-size: 48px;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 50px;
+        }
+    }
+}
+.btn-buy {
+    a {
+        font-size: 12px;
+        font-weight: 700;
+        color: #fff;
+        background: $yellow;
+        display: inline-flex;
+        height: 40px;
+        align-items: center;
+        padding: 0 40px;
+        border-radius: 30px;
+        border: 1px solid $yellow;
+        &:hover {
+            color: $yellow;
+            background: #fff;
+        }
+    }
+}
+.slick-dots {
+    bottom: 10px;
+    button {
+        display: none !important;
+    }
+    li {
+        width: 8px;
+        height: 8px;
+        background: #bbbbbb;
+        border-radius: 100%;
+        &.slick-active {
+            background: #fff;
+        }
+    }
+}
+// end main 
