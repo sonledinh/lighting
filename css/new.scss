@@ -131,3 +131,49 @@
 	    }
     }
 }
+.title-detail {
+	ul {
+		list-style: none;
+        font-size: 12px;
+        padding-top: 8px;
+        margin-bottom: 15px;
+        img {
+            margin-right: 5px;
+        }
+        label {
+            color: $yellow;
+        }
+		li {
+			padding-right: 30px;
+			&:last-child {
+				padding-right: 0;
+			}
+		}
+	}
+	h1 {
+		font-size: 30px;
+	    font-weight: 700;
+	    margin-bottom: 25px;
+	}
+	.avarta-cover {
+		margin-bottom: 40px;
+	}
+	.sapo {
+		font-weight: 700;
+    	margin-bottom: 30px;
+	}
+}
+.new-detail {
+	p {
+		margin-bottom: 15px;
+	}
+}
+.slide-other {
+	margin: 0 -15px;
+	.item-slide {
+		padding: 0 15px;
+	}
+}
+.comment {
+	margin-top: 60px;
+}
