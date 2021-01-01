@@ -31,16 +31,17 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-2">
-                        <div class="logo"><a href=""><img src="images/logo.png" class="img-fluid" alt=""></a></div>
+                        <div class="logo"><a href="index.php"><img src="images/logo.png" class="img-fluid" alt=""></a></div>
                     </div>
                     <div class="col-md-7">
                         <div class="menu-cent text-center">
                             <ul>
-                                <li><a href="" class="active">Trang chủ</a></li>
-                                <li><a href="">Danh mục sản phẩm</a></li>
-                                <li><a href="">Khuyến mại</a></li>
-                                <li><a href="">Blog</a></li>
-                                <li><a href="">Giới thiệu</a></li>
+                                <li><a href="index.php" class="active">Trang chủ</a></li>
+                                <li><a href="product.php">Danh mục sản phẩm</a></li>
+                                <li><a href="product.php">Khuyến mại</a></li>
+                                <li><a href="news.php">Blog</a></li>
+                                <li><a href="about.php">Giới thiệu</a></li>
+                                <li><a href="contact.php">Liên hệ</a></li>
                             </ul>
                         </div>
                     </div>
@@ -49,11 +50,46 @@
                             <ul class="list-inline">
                                 <li class="list-inline-item"><a href=""><img src="images/i-search.svg" class="img-fluid" alt=""></a></li>
                                 <li class="list-inline-item"><a href=""><img src="images/i-heart.svg" class="img-fluid" alt=""><span>2</span></a></li>
-                                <li class="list-inline-item"><a href=""><img src="images/i-cart.svg" class="img-fluid" alt=""><span>2</span></a></li>
+                                <li class="list-inline-item"><a href="cart.php"><img src="images/i-cart.svg" class="img-fluid" alt=""><span>2</span></a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="menu-mobile" style="display: none">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-5 col-5 col-sm-5">
+                        <div class="logo"> 
+                            <a title="" href="index.php"><img alt="" src="images/logo.png" class="img-fluid avarta-logo" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="col-md-7 col-7 col-sm-7">
+                        <div class="right-mobile text-right">
+                            <div class="btn-head text-right">
+                                <ul class="list-inline">
+                                    <li class="list-inline-item"><a href="cart.php"><img src="images/i-cart.svg" class="img-fluid" alt=""><span>2</span></a></li>
+                                    <li class="list-inline-item"><a title="" href="#menu"><i class="fa fa-bars"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <nav id="menu">
+                <ul>
+                    <li>
+                        <input type="text" placeholder="Nhập từ khóa tìm kiếm">
+                        <button><i class="fa fa-search"></i></button>
+                    </li>
+                    <li><a href="index.php" class="active">Trang chủ</a></li>
+                    <li><a href="product.php">Danh mục sản phẩm</a></li>
+                    <li><a href="product.php">Khuyến mại</a></li>
+                    <li><a href="news.php">Blog</a></li>
+                    <li><a href="about.php">Giới thiệu</a></li>
+                    <li><a href="contact.php">Liên hệ</a></li>
+                </ul>
+            </nav>
         </div>
     </header> 

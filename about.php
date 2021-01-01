@@ -86,7 +86,7 @@
 			</div>
 			<div class="list-per">
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 col-sm-4">
 						<div class="item-person text-center">
 							<div class="avar-per"><img src="images/per-1.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -95,7 +95,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 col-sm-4">
 						<div class="item-person text-center">
 							<div class="avar-per"><img src="images/per-2.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -104,7 +104,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 col-sm-4">
 						<div class="item-person text-center">
 							<div class="avar-per"><img src="images/per-1.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -113,7 +113,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 col-sm-4">
 						<div class="item-person text-center">
 							<div class="avar-per"><img src="images/per-2.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -122,7 +122,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 col-sm-4">
 						<div class="item-person text-center">
 							<div class="avar-per"><img src="images/per-1.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -131,7 +131,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 col-sm-4">
 						<div class="item-person text-center">
 							<div class="avar-per"><img src="images/per-2.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -140,7 +140,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 col-sm-4">
 						<div class="item-person text-center">
 							<div class="avar-per"><img src="images/per-1.png" class="img-fluid" alt=""></div>
 							<div class="info">
@@ -149,7 +149,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-6 col-sm-4">
 						<div class="item-person text-center">
 							<div class="avar-per"><img src="images/per-2.png" class="img-fluid" alt=""></div>
 							<div class="info">

@@ -90,18 +90,18 @@
 							<div class="info-bar">
 								<div class="cate-new">
 									<ul>
-										<li><a href="">Space</a></li>
-										<li><a href="">Bedroom Furniture</a></li>
-										<li><a href="">Style</a></li>
-										<li><a href="">Design Funiture</a></li>
-										<li><a href="">Interior</a></li>
-										<li><a href="">Cabinets</a> </li>
-										<li><a href="">Space</a></li>
-										<li><a href="">Bedroom Furniture</a></li>
-										<li><a href="">Style</a></li>
-										<li><a href="">Design Funiture</a></li>
-										<li><a href="">Interior</a></li>
-										<li><a href="">Cabinets</a></li>
+										<li><a href="news.php">Space</a></li>
+										<li><a href="news.php">Bedroom Furniture</a></li>
+										<li><a href="news.php">Style</a></li>
+										<li><a href="news.php">Design Funiture</a></li>
+										<li><a href="news.php">Interior</a></li>
+										<li><a href="news.php">Cabinets</a> </li>
+										<li><a href="news.php">Space</a></li>
+										<li><a href="news.php">Bedroom Furniture</a></li>
+										<li><a href="news.php">Style</a></li>
+										<li><a href="news.php">Design Funiture</a></li>
+										<li><a href="news.php">Interior</a></li>
+										<li><a href="news.php">Cabinets</a></li>
 									</ul>
 								</div>
 							</div>

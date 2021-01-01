@@ -22,12 +22,14 @@ $('.slide-feedback').slick({
             breakpoint: 767, 
             settings: {
                 slidesToShow: 2,
+                slidesToScroll: 1,
             } 
         }, 
         {
             breakpoint: 480,
             settings: {
                 slidesToShow: 1,
+                slidesToScroll: 1,
             }
         }
     ]
@@ -45,13 +47,15 @@ $('.slide-part').slick({
         {
             breakpoint: 767, 
             settings: {
-                slidesToShow: 2,
+                slidesToShow: 4,
+                slidesToScroll: 1, 
             } 
         }, 
         {
             breakpoint: 480,
             settings: {
-                slidesToShow: 1,
+                slidesToShow: 2,
+                slidesToScroll: 1, 
             }
         }
     ]
@@ -119,6 +123,42 @@ $('.new-small').slick({
     ]
 }); 
 
+$('.slider-for').slick({
+    autoplay: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    arrows: false,
+    fade: true,
+    asNavFor: '.slider-nav',
+});
+$('.slider-nav').slick({
+    autoplay:false,
+    arrow:false,
+    slidesToShow: 4,
+    slidesToScroll: 1,
+    responsive: [
+        {
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 4,
+                slidesToScroll: 2
+            }
+        },
+        {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 4,
+                slidesToScroll: 1
+            }
+        }
+    ],
+    asNavFor: '.slider-for',
+    dots: false,
+    focusOnSelect: true,
+    prevArrow: '', 
+    nextArrow: '', 
+});
+
 $( ".btn-list-cate a" ).click(function() {
     $('.list-cate-prd').toggleClass('active');
 });
@@ -151,11 +191,11 @@ var numberSpinner = (function() {
   });
 })();
 
-// jQuery(document).ready(function( $ ) {
-//   $("#menu").mmenu({
-//      "extensions": [
-//         "fx-menu-zoom"
-//      ],
-//      "counters": true
-//   });
-// }); 
+jQuery(document).ready(function( $ ) {
+  $("#menu").mmenu({
+     "extensions": [
+        "fx-menu-zoom"
+     ],
+     "counters": true
+  });
+}); 

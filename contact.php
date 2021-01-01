@@ -93,41 +93,41 @@
 						<div class="box-bar-prd">
 							<h3>Your Recently Viewed Products</h3>
 							<div class="item">
-								<div class="avarta"><a href=""><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
+								<div class="avarta"><a href="product-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
 								<div class="info">
-									<h4><a href="">Convenience Concepts Mission Console Table</a></h4>
+									<h4><a href="product-detail.php">Convenience Concepts Mission Console Table</a></h4>
 									<div class="vote"><img src="images/vote.svg" class="img-fluid" alt=""></div>
 									<div class="price"><span>$240</span></div>
 								</div>
 							</div>
 							<div class="item">
-								<div class="avarta"><a href=""><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
+								<div class="avarta"><a href="product-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
 								<div class="info">
-									<h4><a href="">Convenience Concepts Mission Console Table</a></h4>
+									<h4><a href="product-detail.php">Convenience Concepts Mission Console Table</a></h4>
 									<div class="vote"><img src="images/vote.svg" class="img-fluid" alt=""></div>
 									<div class="price"><span>$240</span></div>
 								</div>
 							</div>
 							<div class="item">
-								<div class="avarta"><a href=""><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
+								<div class="avarta"><a href="product-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
 								<div class="info">
-									<h4><a href="">Convenience Concepts Mission Console Table</a></h4>
+									<h4><a href="product-detail.php">Convenience Concepts Mission Console Table</a></h4>
 									<div class="vote"><img src="images/vote.svg" class="img-fluid" alt=""></div>
 									<div class="price"><span>$240</span></div>
 								</div>
 							</div>
 							<div class="item">
-								<div class="avarta"><a href=""><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
+								<div class="avarta"><a href="product-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
 								<div class="info">
-									<h4><a href="">Convenience Concepts Mission Console Table</a></h4>
+									<h4><a href="product-detail.php">Convenience Concepts Mission Console Table</a></h4>
 									<div class="vote"><img src="images/vote.svg" class="img-fluid" alt=""></div>
 									<div class="price"><span>$240</span></div>
 								</div>
 							</div>
 							<div class="item">
-								<div class="avarta"><a href=""><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
+								<div class="avarta"><a href="product-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
 								<div class="info">
-									<h4><a href="">Convenience Concepts Mission Console Table</a></h4>
+									<h4><a href="product-detail.php">Convenience Concepts Mission Console Table</a></h4>
 									<div class="vote"><img src="images/vote.svg" class="img-fluid" alt=""></div>
 									<div class="price"><span>$240</span></div>
 								</div>

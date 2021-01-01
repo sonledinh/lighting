@@ -16,7 +16,7 @@
 				<div class="col-md-9">
 					<div class="list-news">
 						<div class="item-new-home nuni">
-							<div class="avarta"><a href=""><img src="images/new-1.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
+							<div class="avarta"><a href="new-detail.php"><img src="images/new-1.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
 							<div class="info">
 								<ul>
 									<li><label>By Alitstudio</label></li>
@@ -24,14 +24,14 @@
 									<li><img src="images/cmt.svg" alt=""><span>280</span></li>
 									<li><img src="images/h-new.svg" alt=""><span>89</span></li>
 								</ul>
-								<h3><a href="">2018 Master Bedroom Furniture & Design Trends</a></h3>
+								<h3><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h3>
 								<div class="desc">
 									Your bedroom is where you begin and end every day, and when it’s styled just how you like it, it can set the perfect tone. Whether you’re making a few easy updates or starting fresh, our 2018 bedroom trend roundup can help guide the way. From the hottest styles to the latest in furniture, here’s what we’re loving this year.
 								</div>
 							</div>
 						</div> 
 						<div class="item-new-home nuni">
-							<div class="avarta"><a href=""><img src="images/new-2.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
+							<div class="avarta"><a href="new-detail.php"><img src="images/new-2.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
 							<div class="info">
 								<ul>
 									<li><label>By Alitstudio</label></li>
@@ -39,14 +39,14 @@
 									<li><img src="images/cmt.svg" alt=""><span>280</span></li>
 									<li><img src="images/h-new.svg" alt=""><span>89</span></li>
 								</ul>
-								<h3><a href="">2018 Master Bedroom Furniture & Design Trends</a></h3>
+								<h3><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h3>
 								<div class="desc">
 									Your bedroom is where you begin and end every day, and when it’s styled just how you like it, it can set the perfect tone. Whether you’re making a few easy updates or starting fresh, our 2018 bedroom trend roundup can help guide the way. From the hottest styles to the latest in furniture, here’s what we’re loving this year.
 								</div>
 							</div>
 						</div> 
 						<div class="item-new-home nuni">
-							<div class="avarta"><a href=""><img src="images/new-1.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
+							<div class="avarta"><a href="new-detail.php"><img src="images/new-1.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
 							<div class="info">
 								<ul>
 									<li><label>By Alitstudio</label></li>
@@ -54,14 +54,14 @@
 									<li><img src="images/cmt.svg" alt=""><span>280</span></li>
 									<li><img src="images/h-new.svg" alt=""><span>89</span></li>
 								</ul>
-								<h3><a href="">2018 Master Bedroom Furniture & Design Trends</a></h3>
+								<h3><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h3>
 								<div class="desc">
 									Your bedroom is where you begin and end every day, and when it’s styled just how you like it, it can set the perfect tone. Whether you’re making a few easy updates or starting fresh, our 2018 bedroom trend roundup can help guide the way. From the hottest styles to the latest in furniture, here’s what we’re loving this year.
 								</div>
 							</div>
 						</div> 
 						<div class="item-new-home nuni">
-							<div class="avarta"><a href=""><img src="images/new-2.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
+							<div class="avarta"><a href="new-detail.php"><img src="images/new-2.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
 							<div class="info">
 								<ul>
 									<li><label>By Alitstudio</label></li>
@@ -69,14 +69,14 @@
 									<li><img src="images/cmt.svg" alt=""><span>280</span></li>
 									<li><img src="images/h-new.svg" alt=""><span>89</span></li>
 								</ul>
-								<h3><a href="">2018 Master Bedroom Furniture & Design Trends</a></h3>
+								<h3><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h3>
 								<div class="desc">
 									Your bedroom is where you begin and end every day, and when it’s styled just how you like it, it can set the perfect tone. Whether you’re making a few easy updates or starting fresh, our 2018 bedroom trend roundup can help guide the way. From the hottest styles to the latest in furniture, here’s what we’re loving this year.
 								</div>
 							</div>
 						</div> 
 						<div class="item-new-home nuni">
-							<div class="avarta"><a href=""><img src="images/new-1.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
+							<div class="avarta"><a href="new-detail.php"><img src="images/new-1.jpg" class="img-fluid w-100" alt=""><span>READ</span></a></div>
 							<div class="info">
 								<ul>
 									<li><label>By Alitstudio</label></li>
@@ -84,7 +84,7 @@
 									<li><img src="images/cmt.svg" alt=""><span>280</span></li>
 									<li><img src="images/h-new.svg" alt=""><span>89</span></li>
 								</ul>
-								<h3><a href="">2018 Master Bedroom Furniture & Design Trends</a></h3>
+								<h3><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h3>
 								<div class="desc">
 									Your bedroom is where you begin and end every day, and when it’s styled just how you like it, it can set the perfect tone. Whether you’re making a few easy updates or starting fresh, our 2018 bedroom trend roundup can help guide the way. From the hottest styles to the latest in furniture, here’s what we’re loving this year.
 								</div>
@@ -129,17 +129,17 @@
 							<div class="info-bar">
 								<div class="slide-feat">
 									<div class="item">
-										<div class="avarta"><a href=""><img src="images/feat.png" class="img-fluid w-100" alt=""></a></div>
+										<div class="avarta"><a href="new-detail.php"><img src="images/feat.png" class="img-fluid w-100" alt=""></a></div>
 										<div class="info">
 											<div class="date">06 Jun 2018</div>
-											<h4><a href="">Belham Living Windsor Rocking Chair</a></h4>
+											<h4><a href="new-detail.php">Belham Living Windsor Rocking Chair</a></h4>
 										</div>
 									</div>
 									<div class="item">
-										<div class="avarta"><a href=""><img src="images/feat.png" class="img-fluid w-100" alt=""></a></div>
+										<div class="avarta"><a href="new-detail.php"><img src="images/feat.png" class="img-fluid w-100" alt=""></a></div>
 										<div class="info">
 											<div class="date">06 Jun 2018</div>
-											<h4><a href="">Belham Living Windsor Rocking Chair</a></h4>
+											<h4><a href="new-detail.php">Belham Living Windsor Rocking Chair</a></h4>
 										</div>
 									</div>
 								</div>
@@ -150,33 +150,33 @@
 							<div class="info-bar">
 								<div class="post-news">
 									<div class="item-post">
-										<div class="avarta"><a href=""><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
+										<div class="avarta"><a href="new-detail.php"><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
 										<div class="info">
-											<h4><a href="">2018 Master Bedroom Furniture & Design Trends</a></h4>
+											<h4><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h4>
 										</div>
 									</div>
 									<div class="item-post">
-										<div class="avarta"><a href=""><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
+										<div class="avarta"><a href="new-detail.php"><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
 										<div class="info">
-											<h4><a href="">2018 Master Bedroom Furniture & Design Trends</a></h4>
+											<h4><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h4>
 										</div>
 									</div>
 									<div class="item-post">
-										<div class="avarta"><a href=""><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
+										<div class="avarta"><a href="new-detail.php"><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
 										<div class="info">
-											<h4><a href="">2018 Master Bedroom Furniture & Design Trends</a></h4>
+											<h4><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h4>
 										</div>
 									</div>
 									<div class="item-post">
-										<div class="avarta"><a href=""><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
+										<div class="avarta"><a href="new-detail.php"><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
 										<div class="info">
-											<h4><a href="">2018 Master Bedroom Furniture & Design Trends</a></h4>
+											<h4><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h4>
 										</div>
 									</div>
 									<div class="item-post">
-										<div class="avarta"><a href=""><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
+										<div class="avarta"><a href="new-detail.php"><img src="images/post.png" class="img-fluid w-100" alt=""></a></div>
 										<div class="info">
-											<h4><a href="">2018 Master Bedroom Furniture & Design Trends</a></h4>
+											<h4><a href="new-detail.php">2018 Master Bedroom Furniture & Design Trends</a></h4>
 										</div>
 									</div>
 								</div>

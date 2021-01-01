@@ -103,23 +103,23 @@
 			 			</div>
 			 			<div class="list-cate-prd">
 			 				<ul>
-			 					<li><a href="">Living Room Furniture</a></li>
-			 					<li><a href="">Bedroom Furniture</a></li>
-			 					<li><a href="">Mattresses</a></li>
-			 					<li><a href="">Dining Room & Bar Furniture</a></li>
-			 					<li><a href="">Kitchen Furniture</a></li>
-			 					<li><a href="">Patio & Outdoor Furniture</a></li>
-			 					<li><a href="">Office Furniture</a></li>
-			 					<li><a href="">Bathroom Furniture</a></li>
-			 					<li><a href="">Cabinets</a></li>
-			 					<li><a href="">Shelving</a></li>
-			 					<li><a href="">Vanities</a></li>
-			 					<li><a href="">Kids' Furniture</a></li>
-			 					<li><a href="">Handmade Furniture</a></li>
-			 					<li><a href="">Featured Sales</a></li>
-			 					<li><a href="">Vanities</a></li>
-			 					<li><a href="">Kids' Furniture</a></li>
-			 					<li><a href="">Handmade FurnitureKid</a></li>
+			 					<li><a href="product.php">Living Room Furniture</a></li>
+			 					<li><a href="product.php">Bedroom Furniture</a></li>
+			 					<li><a href="product.php">Mattresses</a></li>
+			 					<li><a href="product.php">Dining Room & Bar Furniture</a></li>
+			 					<li><a href="product.php">Kitchen Furniture</a></li>
+			 					<li><a href="product.php">Patio & Outdoor Furniture</a></li>
+			 					<li><a href="product.php">Office Furniture</a></li>
+			 					<li><a href="product.php">Bathroom Furniture</a></li>
+			 					<li><a href="product.php">Cabinets</a></li>
+			 					<li><a href="product.php">Shelving</a></li>
+			 					<li><a href="product.php">Vanities</a></li>
+			 					<li><a href="product.php">Kids' Furniture</a></li>
+			 					<li><a href="product.php">Handmade Furniture</a></li>
+			 					<li><a href="product.php">Featured Sales</a></li>
+			 					<li><a href="product.php">Vanities</a></li>
+			 					<li><a href="product.php">Kids' Furniture</a></li>
+			 					<li><a href="product.php">Handmade FurnitureKid</a></li>
 			 				</ul>
 			 			</div>
 			 		</div>
@@ -142,192 +142,192 @@
 			 </div>   
 			 <div class="list-product">
 			 	<div class="row">
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd"> 
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
@@ -354,7 +354,7 @@
 		 	<div class="container">
 		 		<div class="row align-items-center">
 		 			<div class="col-md-6"><h2>Đèn thả</h2></div>
-		 			<div class="col-md-6 text-right"><a href="" class="text-uppercase ">Xem tất cả <img src="images/right.svg" class="img-fluid" alt=""></a></div>
+		 			<div class="col-md-6 text-right"><a href="product.php" class="text-uppercase ">Xem tất cả <img src="images/right.svg" class="img-fluid" alt=""></a></div>
 		 		</div>
 		 	</div>
 		</div>
@@ -362,192 +362,192 @@
 			 <div class="box-prd-top"></div>
 			 <div class="list-product">
 			 	<div class="row">
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd"> 
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
@@ -563,7 +563,7 @@
 		 	<div class="container">
 		 		<div class="row align-items-center">
 		 			<div class="col-md-6"><h2>Đèn thả</h2></div>
-		 			<div class="col-md-6 text-right"><a href="" class="text-uppercase ">Xem tất cả <img src="images/right.svg" class="img-fluid" alt=""></a></div>
+		 			<div class="col-md-6 text-right"><a href="product.php" class="text-uppercase ">Xem tất cả <img src="images/right.svg" class="img-fluid" alt=""></a></div>
 		 		</div>
 		 	</div>
 		</div>
@@ -571,192 +571,192 @@
 			 <div class="box-prd-top"></div>
 			 <div class="list-product">
 			 	<div class="row">
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd"> 
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
@@ -772,7 +772,7 @@
 		 	<div class="container">
 		 		<div class="row align-items-center">
 		 			<div class="col-md-6"><h2>Đèn thả</h2></div>
-		 			<div class="col-md-6 text-right"><a href="" class="text-uppercase ">Xem tất cả <img src="images/right.svg" class="img-fluid" alt=""></a></div>
+		 			<div class="col-md-6 text-right"><a href="product.php" class="text-uppercase ">Xem tất cả <img src="images/right.svg" class="img-fluid" alt=""></a></div>
 		 		</div>
 		 	</div>
 		</div>
@@ -780,192 +780,192 @@
 			 <div class="box-prd-top"></div>
 			 <div class="list-product">
 			 	<div class="row">
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd">
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
 			 				 </div>
 			 			</div>
 			 		</div>
-			 		<div class="col-md-3">
+			 		<div class="col-md-3 col-sm-4">
 			 			<div class="item-prd"> 
 			 				 <div class="p-top">
 			 				 	<ul class="list-inline">
-			 				 		<li class="list-inline-item"><a href="" class="c-green">Đèn chùm</a></li>
-			 				 		<li class="list-inline-item"><a href="" class="c-red">Phòng khách</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-green">Đèn chùm</a></li>
+			 				 		<li class="list-inline-item"><a href="product.php" class="c-red">Phòng khách</a></li>
 			 				 	</ul>
 			 				 </div>
-			 				 <h3><a href="">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
+			 				 <h3><a href="product-detail.php">Adesso Draper 3234 <br>Gooseneck Desk Lamp</a></h3>
 			 				 <div class="avarta">
-			 				 	<a href=""><img src="images/product.png" class="img-fluid w-100" alt=""></a>
+			 				 	<a href="product-detail.php"><img src="images/product.png" class="img-fluid w-100" alt=""></a>
 			 				 	<div class="info">
 			 				 		<ul class="list-inline">
 			 				 			<li class="list-inline-item">
 			 				 				<div class="price">2.000.000</div>
 			 				 			</li>
 			 				 			<li class="list-inline-item">
-			 				 				<div class="btn-cart"><a href=""><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
+			 				 				<div class="btn-cart"><a href="cart.php"><img src="images/cart.svg" class="img-fluid" alt=""></a></div>
 			 				 			</li>
 			 				 		</ul>
 			 				 	</div>
@@ -1179,9 +1179,9 @@
 						<div class="right">
 							<div class="new-small">
 								<div class="item-new-small">
-									<div class="avarta"><a href=""><img src="images/new-small.png" class="img-fluid" alt=""></a></div>
+									<div class="avarta"><a href="new-detail.php"><img src="images/new-small.png" class="img-fluid" alt=""></a></div>
 									<div class="info">
-										<h3><a href="">Lorem ipsum dolor sit amet, sectetur adipiscing elit</a></h3>
+										<h3><a href="new-detail.php">Lorem ipsum dolor sit amet, sectetur adipiscing elit</a></h3>
 										<ul>
 											<li>12 Dec, 2020</li>
 											<li>12,345 views</li>
@@ -1189,9 +1189,9 @@
 									</div>
 								</div>
 								<div class="item-new-small">
-									<div class="avarta"><a href=""><img src="images/new-small.png" class="img-fluid" alt=""></a></div>
+									<div class="avarta"><a href="new-detail.php"><img src="images/new-small.png" class="img-fluid" alt=""></a></div>
 									<div class="info">
-										<h3><a href="">Lorem ipsum dolor sit amet, sectetur adipiscing elit</a></h3>
+										<h3><a href="new-detail.php">Lorem ipsum dolor sit amet, sectetur adipiscing elit</a></h3>
 										<ul>
 											<li>12 Dec, 2020</li>
 											<li>12,345 views</li>
@@ -1199,9 +1199,9 @@
 									</div>
 								</div>
 								<div class="item-new-small">
-									<div class="avarta"><a href=""><img src="images/new-small.png" class="img-fluid" alt=""></a></div>
+									<div class="avarta"><a href="new-detail.php"><img src="images/new-small.png" class="img-fluid" alt=""></a></div>
 									<div class="info">
-										<h3><a href="">Lorem ipsum dolor sit amet, sectetur adipiscing elit</a></h3>
+										<h3><a href="new-detail.php">Lorem ipsum dolor sit amet, sectetur adipiscing elit</a></h3>
 										<ul>
 											<li>12 Dec, 2020</li>
 											<li>12,345 views</li>
@@ -1209,9 +1209,9 @@
 									</div>
 								</div>
 								<div class="item-new-small">
-									<div class="avarta"><a href=""><img src="images/new-small.png" class="img-fluid" alt=""></a></div>
+									<div class="avarta"><a href="new-detail.php"><img src="images/new-small.png" class="img-fluid" alt=""></a></div>
 									<div class="info">
-										<h3><a href="">Lorem ipsum dolor sit amet, sectetur adipiscing elit</a></h3>
+										<h3><a href="new-detail.php">Lorem ipsum dolor sit amet, sectetur adipiscing elit</a></h3>
 										<ul>
 											<li>12 Dec, 2020</li>
 											<li>12,345 views</li>
@@ -1235,9 +1235,9 @@
 			<div class="title text-center"><h2>Tin tức</h2></div>
 			<div class="list-new-home">
 				<div class="row">
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6">
 						<div class="item-new-home">
-							<div class="avarta"><a href=""><img src="images/new.png" class="img-fluid w-100" alt=""><span>READ</span></a></div>
+							<div class="avarta"><a href="new-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""><span>READ</span></a></div>
 							<div class="info">
 								<ul>
 									<li><label>By Alitstudio</label></li>
@@ -1245,13 +1245,13 @@
 									<li><img src="images/cmt.svg" alt=""><span>280</span></li>
 									<li><img src="images/h-new.svg" alt=""><span>89</span></li>
 								</ul>
-								<h3><a href="">How to make your living room movie night ready</a></h3>
+								<h3><a href="new-detail.php">How to make your living room movie night ready</a></h3>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6">
 						<div class="item-new-home">
-							<div class="avarta"><a href=""><img src="images/new.png" class="img-fluid w-100" alt=""><span>READ</span></a></div>
+							<div class="avarta"><a href="new-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""><span>READ</span></a></div>
 							<div class="info">
 								<ul>
 									<li><label>By Alitstudio</label></li>
@@ -1259,13 +1259,13 @@
 									<li><img src="images/cmt.svg" alt=""><span>280</span></li>
 									<li><img src="images/h-new.svg" alt=""><span>89</span></li>
 								</ul>
-								<h3><a href="">How to make your living room movie night ready</a></h3>
+								<h3><a href="new-detail.php">How to make your living room movie night ready</a></h3>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6">
 						<div class="item-new-home">
-							<div class="avarta"><a href=""><img src="images/new.png" class="img-fluid w-100" alt=""><span>READ</span></a></div>
+							<div class="avarta"><a href="new-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""><span>READ</span></a></div>
 							<div class="info">
 								<ul>
 									<li><label>By Alitstudio</label></li>
@@ -1273,13 +1273,13 @@
 									<li><img src="images/cmt.svg" alt=""><span>280</span></li>
 									<li><img src="images/h-new.svg" alt=""><span>89</span></li>
 								</ul>
-								<h3><a href="">How to make your living room movie night ready</a></h3>
+								<h3><a href="new-detail.php">How to make your living room movie night ready</a></h3>
 							</div>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-md-3 col-sm-6">
 						<div class="item-new-home">
-							<div class="avarta"><a href=""><img src="images/new.png" class="img-fluid w-100" alt=""><span>READ</span></a></div>
+							<div class="avarta"><a href="new-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""><span>READ</span></a></div>
 							<div class="info">
 								<ul>
 									<li><label>By Alitstudio</label></li>
@@ -1287,7 +1287,7 @@
 									<li><img src="images/cmt.svg" alt=""><span>280</span></li>
 									<li><img src="images/h-new.svg" alt=""><span>89</span></li>
 								</ul>
-								<h3><a href="">How to make your living room movie night ready</a></h3>
+								<h3><a href="new-detail.php">How to make your living room movie night ready</a></h3>
 							</div>
 						</div>
 					</div>

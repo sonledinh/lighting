@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-md-3">
 					<div class="item-ft">
-						<div class="logo"><a href=""><img src="images/logo.png" class="img-fluid" alt=""></a></div>
+						<div class="logo"><a href="index.php"><img src="images/logo.png" class="img-fluid" alt=""></a></div>
 						<h2 class="text-uppercase">Công ty Cổ phần đèn trang trí Việt Nam</h2>
 					</div>
 				</div>
