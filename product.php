@@ -14,7 +14,7 @@
 	<section id="product">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-3">
+				<div class="col-md-3 col-filter">
 					<div class="side-bar">
 						<div class="box-bar">
 							<div class="title-bar">Browse Categories </div>
@@ -194,8 +194,8 @@
 								</div>
 							</div>
 						</div>
-						<div class="box-bar-prd">
-							<h3>Popular Todays</h3>
+						<div class="box-bar box-bar-prd">
+							<h3 class="title-bar">Popular Todays</h3>
 							<div class="item">
 								<div class="avarta"><a href="prouct-detail.php"><img src="images/new.png" class="img-fluid w-100" alt=""></a></div>
 								<div class="info">
@@ -239,7 +239,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-9">
+				<div class="col-md-9 col-bgs" style="background: url(images/p-1.jpg) no-repeat center;">
 					<div class="box-prd-top">
 					 	<div class="row align-items-center">
 					 		<div class="col-md-9">
